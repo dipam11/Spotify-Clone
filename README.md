@@ -1,3 +1,3 @@
 # Spotify-Clone
-<img src="https://imgur.com/a/7aCtet7" width="30" height="30">
+<img src="https://raw.githubusercontent.com/dipam11/Spotify-Clone/gh-pages/sPOTIFY%20cLONE.png">
 
