@@ -14,8 +14,8 @@
 }
 
 .songRow__info {
-    display: grid !important;
-    justify-content: space-between;
+  display: grid !important;
+  justify-content: space-between;
   margin-left: 20px;
 }
 
